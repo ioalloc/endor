@@ -1,4 +1,4 @@
-lxml==4.2.5
+lxml==4.2.6
 numpy==1.15.4
 click==7.0
 requests==2.21.0
