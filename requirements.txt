@@ -1,6 +1,6 @@
 numpy==1.19.1
 numpy==1.19.1
-lxml==4.6.3
+lxml==4.6.5
 click==7.0
 Pillow==8.3.2
 requests==2.24.0
